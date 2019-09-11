@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteKeeperFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_note">Edit Note</string>
+    <string name="note_text">Note Text</string>
+    <string name="note_title">Note Title</string>
+</resources>
